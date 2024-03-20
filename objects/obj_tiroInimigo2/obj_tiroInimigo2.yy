@@ -1,9 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_nave",
+  "name": "obj_tiroInimigo2",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":5,"eventType":7,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
   "managed": true,
@@ -29,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "srp_nave",
-    "path": "sprites/srp_nave/srp_nave.yy",
+    "name": "spr_tinoInimigo2",
+    "path": "sprites/spr_tinoInimigo2/spr_tinoInimigo2.yy",
   },
   "spriteMaskId": null,
   "visible": true,

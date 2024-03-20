@@ -1,10 +1,9 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_nave",
+  "name": "obj_explosao",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":7,"eventType":7,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +28,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "srp_nave",
-    "path": "sprites/srp_nave/srp_nave.yy",
+    "name": "spr_explosao",
+    "path": "sprites/spr_explosao/spr_explosao.yy",
   },
   "spriteMaskId": null,
   "visible": true,

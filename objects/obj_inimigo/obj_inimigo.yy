@@ -1,10 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_nave",
+  "name": "obj_inimigo",
   "eventList": [
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":{"name":"obj_tiro","path":"objects/obj_tiro/obj_tiro.yy",},"eventNum":0,"eventType":4,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":2,"isDnD":false,},
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":1,"isDnD":false,},
   ],
   "managed": true,
   "overriddenProperties": [],
@@ -29,8 +32,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "srp_nave",
-    "path": "sprites/srp_nave/srp_nave.yy",
+    "name": "spr_inimigo",
+    "path": "sprites/spr_inimigo/spr_inimigo.yy",
   },
   "spriteMaskId": null,
   "visible": true,
